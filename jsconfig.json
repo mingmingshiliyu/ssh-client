@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "types": [
+      "utools-api-types"
+    ],
+    // "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": [
+    "src/**/*.jsx",
+    "src/**/*.js"
+  ]
+}
